@@ -1,0 +1,12 @@
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\bin\Debug\netstandard2.0\ProjetoLivro.deps.json
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\bin\Debug\netstandard2.0\ProjetoLivro.dll
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\bin\Debug\netstandard2.0\ProjetoLivro.pdb
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.csprojAssemblyReference.cache
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.csproj.CoreCompileInputs.cache
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.AssemblyInfoInputs.cache
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.AssemblyInfo.cs
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\XamlC.stamp
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.dll
+c:\users\manab\source\repos\ProjetoLivro\ProjetoLivro\ProjetoLivro\obj\Debug\netstandard2.0\ProjetoLivro.pdb
